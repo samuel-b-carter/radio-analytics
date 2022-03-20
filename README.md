@@ -3,7 +3,7 @@ This page analyzes geographic representation and performance metrics of select p
 
 ## Project plan
 
-### Phase 1 - Gather data
+### Phase 1 - Gather 
 
 1) Script injestion of at least one radio playlist page.
 
@@ -13,7 +13,9 @@ I'll need data on these songs, such as length of song, song release date, band n
 
 3) Research music databases
 
-Start with Wikipedia's [https://en.wikipedia.org/wiki/List_of_online_music_databases](list of online music databases). 
+Start with Wikipedia's [list of online music databases](https://en.wikipedia.org/wiki/List_of_online_music_databases). 
 Prioritize free use, size of database, and sucess rate.
 
-### Phase 2 - Analyze
+### Phase 2 - Analyze 
+
+1) Define metrics.
