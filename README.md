@@ -14,8 +14,15 @@ I'll need data on these songs, such as length of song, song release date, band n
 3) Research music databases
 
 Start with Wikipedia's [list of online music databases](https://en.wikipedia.org/wiki/List_of_online_music_databases). 
+
 Prioritize free use, size of database, and sucess rate.
 
 ### Phase 2 - Analyze 
 
 1) Define metrics.
+
+Preliminary metrics include music over air-time... anything else? Origin similarity index? Some other diversity index?
+
+### Phase 3 - Show
+
+1) Data visualizations - cartographic and traditional. 
